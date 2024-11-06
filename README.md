@@ -18,21 +18,21 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/linux/main/brows
 Open Chromium:
 
 ``
-http://serverIP:3000
+http://serverIP:3010
 ``
 
 ``
-https://serverIP:3001
+https://serverIP:3011
 ``
 
 Open Firefox:
 
 ``
-http://serverIP:4000
+http://serverIP:4010
 ``
 
 ``
-https://serverIP:4001
+https://serverIP:4011
 ``
 
 ![1](https://raw.githubusercontent.com/Ptechgithub/linux/main/media/1.jpg)
