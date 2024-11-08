@@ -18,11 +18,11 @@ bash <(curl -fsSL https://raw.githubusercontent.com/cryptoneth/linux/main/browse
 Open Chromium:
 
 ``
-http://serverIP:3010
+http://serverIP:3115
 ``
 
 ``
-https://serverIP:3011
+https://serverIP:3116
 ``
 
 Open Firefox:
