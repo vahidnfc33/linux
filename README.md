@@ -8,8 +8,11 @@ This Bash script provides an interactive menu to install Chromium and Firefox br
 
 install Chromium and Firefox in Linux
 
+
+
+
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/cryptoneth/linux/main/browser.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/vahidnfc33/linux/refs/heads/main/browser.sh)
 ```
 ## Prerequisite: 
 - docker( auto install)
